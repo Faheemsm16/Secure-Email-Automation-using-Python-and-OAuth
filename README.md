@@ -25,13 +25,12 @@ Download the below Python library:
 Upon successful execution, the script prints the message ID, confirming that the email has been sent. This output provides a tangible indication of the script's success and serves as a reference for users to verify that the email transmission occurred as expected.
 
 ## Challenges and Solutions
-
-## Challenges Encountered
+**Challenges Encountered**
 OAuth setup complexities
 API access issues
 Errors in email formatting
 
-## Solutions Employed
+**Solutions Employed**
 Meticulous attention to OAuth configuration details
 Comprehensive error handling in the code
 
