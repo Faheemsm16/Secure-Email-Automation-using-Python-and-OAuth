@@ -26,13 +26,13 @@ Upon successful execution, the script prints the message ID, confirming that the
 
 ## Challenges and Solutions
 **Challenges Encountered**
-OAuth setup complexities
-API access issues
-Errors in email formatting
+- OAuth setup complexities
+- API access issues
+- Errors in email formatting
 
 **Solutions Employed**
-Meticulous attention to OAuth configuration details
-Comprehensive error handling in the code
+- Meticulous attention to OAuth configuration details
+- Comprehensive error handling in the code
 
 ## Conclusion
 In conclusion, this project successfully demonstrates a secure and efficient method for automating email messages without using passwords. The use of OAuth enhances the overall security of the process, making it a reliable solution for users seeking to automate their email communication.
